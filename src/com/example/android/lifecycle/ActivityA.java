@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+/* Mobile TaaS : Test App */
+
 package com.example.android.lifecycle;
 
 import android.app.Activity;
